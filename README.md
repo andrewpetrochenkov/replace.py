@@ -1,12 +1,14 @@
-<!-- https://pypi.org/project/readme-generator/ -->
+<!--
+https://pypi.org/project/readme-generator/
+-->
 
 [![](https://img.shields.io/pypi/pyversions/replace.svg?longCache=True)](https://pypi.org/project/replace/)
 [![](https://img.shields.io/pypi/v/replace.svg?maxAge=3600)](https://pypi.org/project/replace/)
 [![Travis](https://api.travis-ci.org/looking-for-a-job/replace.py.svg?branch=master)](https://travis-ci.org/looking-for-a-job/replace.py/)
 
-#### Install
+#### Installation
 ```bash
-[sudo] pip install replace
+$ [sudo] pip install replace
 ```
 
 #### Functions

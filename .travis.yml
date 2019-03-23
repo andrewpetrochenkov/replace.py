@@ -6,7 +6,8 @@ python:
 - "3.5"
 - "3.6"
 - "3.7-dev"
-notifications: false
+notifications:
+  email: false
 after_failure:
 - wget https://raw.githubusercontent.com/DiscordHooks/travis-ci-discord-webhook/master/send.sh
 - chmod +x send.sh
