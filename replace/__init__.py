@@ -1,8 +1,6 @@
-#!/usr/bin/env python
-import public
+__all__ = ['replace']
 
 
-@public.add
 def replace(source, replacement):
     """replace multiple elements/substrings and return result"""
     if isinstance(source, (list, set, tuple)):

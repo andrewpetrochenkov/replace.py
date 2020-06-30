@@ -1,21 +1,16 @@
 <!--
-https://pypi.org/project/readme-generator/
-https://pypi.org/project/python-readme-generator/
+https://readme42.com
 -->
 
-[![](https://img.shields.io/pypi/pyversions/replace.svg?longCache=True)](https://pypi.org/project/replace/)
-[![](https://img.shields.io/pypi/v/replace.svg?maxAge=3600)](https://pypi.org/project/replace/)
-[![Travis](https://api.travis-ci.org/looking-for-a-job/replace.py.svg?branch=master)](https://travis-ci.org/looking-for-a-job/replace.py/)
 
-#### Installation
+[![](https://img.shields.io/pypi/v/replace.svg?maxAge=3600)](https://pypi.org/project/replace/)
+[![](https://img.shields.io/badge/License-Unlicense-blue.svg?longCache=True)](https://unlicense.org/)
+[![](https://github.com/andrewp-as-is/replace.py/workflows/tests42/badge.svg)](https://github.com/andrewp-as-is/replace.py/actions)
+
+### Installation
 ```bash
 $ [sudo] pip install replace
 ```
-
-#### Functions
-function|`__doc__`
--|-
-`replace.replace(source, replacement)` |replace multiple elements/substrings and return result
 
 #### Examples
 ```python
@@ -30,5 +25,5 @@ import replace
 ```
 
 <p align="center">
-    <a href="https://pypi.org/project/python-readme-generator/">python-readme-generator</a>
+    <a href="https://readme42.com/">readme42.com</a>
 </p>
